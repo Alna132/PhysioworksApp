@@ -7,20 +7,20 @@ This is an iOS app for Physioworks Moycullen, it is a 4-5 page App navigated by 
 What was requested was a page about the clinic, treatments, a booking online page, a location page and a client form page in that order.
 
 ### About the clinic
-i.	This will have info on the clinic and Physio, including qualifications and such.
-ii.	There will also be a link to the clinics Facebook page, LinkedIn and, website.
+-	This will have info on the clinic and Physio, including qualifications and such.
+-	There will also be a link to the clinics Facebook page, LinkedIn and, website.
 ### About the treatments
-i.	This page will outline the treatments that are used by the Physio including various injuries and conditions that she treats.
+-	This page will outline the treatments that are used by the Physio including various injuries and conditions that she treats.
 ### Booking online page
-i.	Working with Rushcliff in the UK, they are the provider of the practices software, to incorporate their API to create a booking online page.
-ii.	Rushcliff currently has no Apple apps so are eager to see the application completed.
+-	Working with Rushcliff in the UK, they are the provider of the practices software, to incorporate their API to create a booking online page.
+-	Rushcliff currently has no Apple apps so are eager to see the application completed.
 ### Location page
-i.	This page will have a map, tomtom link, google map link and directions to the clinic.
-ii.	There will also be contact info.
+-	This page will have a map, tomtom link, google map link and directions to the clinic.
+-	There will also be contact info.
 ### Client form page
-i.	This will be a form for new patients to fill out some basic info before their appointment.
-ii.	It will then be emailed to Sonya to put on file.
-iii.	This will save time during initial consultations.
+-	This will be a form for new patients to fill out some basic info before their appointment.
+-	It will then be emailed to Sonya to put on file.
+-	This will save time during initial consultations.
 
 
 ##Scope of Work done
